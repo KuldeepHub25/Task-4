@@ -1,0 +1,1 @@
+Selected KPIs (Sales, Profit, Growth), implemented slicers and filters for interactivity, incorporated time-series analysis, added summary cards for key metrics, applied a consistent color theme, and designed a navigation menu to enhance user experience.
